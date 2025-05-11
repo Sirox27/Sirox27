@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sirox27!
-- 👀 I’m interested in game-development and web-design!
+- 👀 I’m interested in game-development, testing, animations, visual effects and web-design!
 - 🌱 I’m currently learning the things above.
 - 💞️ I’m looking to collaborate on exchanging knowledge with each other :D
 - 📫 How to reach me is somethin you will never know (;
